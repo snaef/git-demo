@@ -1,4 +1,3 @@
 hello b!
 changed
-Yours,
-Sonja
+changed by sonja
